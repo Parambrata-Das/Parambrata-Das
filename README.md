@@ -1,9 +1,11 @@
 <p align="left">
-  <a href="https://linkedin.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="40" height="40" alt="LinkedIn" />
+  <!-- X (TWITTER) REAL BADGE -->
+  <a href="https://x.com" target="_blank">
+    <img src="./Twitter.svg" width="40" height="40" alt="X Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" width="40" height="40" alt="X"/>
+  <!-- LINKEDIN REAL BADGE -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="./LinkedIn.svg" width="40" height="40" alt="LinkedIn Profile" />
   </a>
 </p>
