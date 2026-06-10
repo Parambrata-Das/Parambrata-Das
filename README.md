@@ -1,11 +1,3 @@
-<p align="left">
-  <!-- X (TWITTER) REAL BADGE -->
-  <a href="https://x.com" target="_blank">
-    <img src="./Twitter.svg" width="40" height="40" alt="X Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- LINKEDIN REAL BADGE -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="./LinkedIn.svg" width="40" height="40" alt="LinkedIn Profile" />
-  </a>
-</p>
+### Hey, I'm Parambrta Das
+
+[![X @Parambrata007](https://img.shields.io/badge/X-@Parambrata007-000?style=flat&logo=x)](https://x.com/Parambrata007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ParambrataDas-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/parambrata-das)
